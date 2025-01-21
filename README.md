@@ -8,6 +8,8 @@ When triggered, it opens the trading port NUI.
 exports.tp_trading_port:OpenTradingNUI() 
 ```
 
+-- Get Player Data
+```lua
 -- @param data.Level
 -- @param data.LevelExperience
 -- @param data.HasOrderPickup
@@ -15,7 +17,6 @@ exports.tp_trading_port:OpenTradingNUI()
 -- @param data.CurrentDay
 -- @param data.CurrentMonth
 
-```lua
 exports.tp_trading_port:GetPlayerData() -- returns a table.
 ```
 
