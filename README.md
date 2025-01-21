@@ -31,3 +31,5 @@ If the player is doing pickup order process
 ```lua
 exports.tp_trading_port:IsInOrderPickup() -- boolean
 ```
+
+## How to register new countries
