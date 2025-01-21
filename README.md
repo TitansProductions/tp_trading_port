@@ -32,4 +32,4 @@ If the player is doing pickup order process
 exports.tp_trading_port:IsInOrderPickup() -- boolean
 ```
 
-## How to register new countries
+## Countries Registration (Manual changes)
